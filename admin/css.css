@@ -1,0 +1,15 @@
+h1 {
+  text-align: center;
+}
+
+.tbl-admin td>section {
+  margin-top: 20px;
+}
+section >a {
+    text-decoration: none;
+}
+
+
+.member-form {
+    margin: 20px;
+}
